@@ -1,0 +1,30 @@
+feature_0:
+  p_value: 0.5972
+  drift_detected: false
+feature_1:
+  p_value: 0.9112
+  drift_detected: false
+feature_2:
+  p_value: 0.881
+  drift_detected: false
+feature_3:
+  p_value: 0.1748
+  drift_detected: false
+feature_4:
+  p_value: 0.2183
+  drift_detected: false
+feature_5:
+  p_value: 0.3291
+  drift_detected: false
+feature_6:
+  p_value: 0.7058
+  drift_detected: false
+feature_7:
+  p_value: 0.5757
+  drift_detected: false
+feature_8:
+  p_value: 0.2429
+  drift_detected: false
+feature_9:
+  p_value: 0.6406
+  drift_detected: false

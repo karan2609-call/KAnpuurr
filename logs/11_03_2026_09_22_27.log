@@ -1,0 +1,12 @@
+[ 2026-11-03 09:22:27,817 ] 169 root - INFO - Starting Stage 1: Data Ingestion
+[ 2026-11-03 09:22:27,939 ] 283 root - INFO - Data Ingestion completed successfully
+[ 2026-11-03 09:22:27,939 ] 293 root - INFO - Starting Stage 2: Data Validation
+[ 2026-11-03 09:22:27,974 ] 356 root - INFO - Data Validation completed successfully
+[ 2026-11-03 09:22:27,975 ] 366 root - INFO - Starting Stage 3: Data Transformation
+[ 2026-11-03 09:22:28,043 ] 494 root - INFO - Data Transformation completed successfully
+[ 2026-11-03 09:22:28,044 ] 504 root - INFO - Starting Stage 4: Model Training
+[ 2026-11-03 09:22:32,010 ] 564 root - INFO - Training Accuracy: 1.0000
+[ 2026-11-03 09:22:32,012 ] 574 root - INFO - Starting Stage 5: Model Evaluation
+[ 2026-11-03 09:22:32,284 ] 630 root - INFO - Model Evaluation Accuracy: 0.9933
+[ 2026-11-03 09:22:32,286 ] 640 root - INFO - Starting Stage 6: Model Pusher
+[ 2026-11-03 09:22:32,294 ] 662 root - INFO - Model Pusher completed successfully
